@@ -8,7 +8,7 @@ from outer_apis import AppliftingAPI
 def create_app(app):
     """
     Function that takes care of initialization
-    of Flaks application router with configuration and Schemas.
+    of Flaks API router with configuration and Schemas.
     :param app: Flask app object
 
     :return: app
