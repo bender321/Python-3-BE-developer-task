@@ -155,10 +155,10 @@
 - 500 ERROR {"status": "ERROR", "code": 500, "msg": "Exeption msg which caused error"}
 
 ### Tests:
-- In tests.py there some test that focus on testing routes
+- In tests.py there are some test that focus on testing routes
 - in file are also testing variables and jsons as reference to tests
-- so for testing you have to rewrite those variables and jsons which data you wish to test
-- or just run command ```python tests.py``` after command ```python db_maker.py``` to work with default values in tests.py
+- so for testing you have to rewrite those variables and jsons which data you wish to test with
+- or just run command ```python tests.py``` after command ```python db_maker.py``` to work with default values in tests.py (1st record in database)
 
 
 
