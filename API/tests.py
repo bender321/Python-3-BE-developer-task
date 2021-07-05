@@ -11,7 +11,7 @@ product_name = "Test"
 product_descript = "Test description."
 
 # general
-content_type = 'API/json'
+content_type = 'application/json'
 headers = {"Content-Type": content_type}
 code_ok = 200
 code_not_found = 404
