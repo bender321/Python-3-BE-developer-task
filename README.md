@@ -163,7 +163,7 @@
 ### Backround task:
 - In taskmaker.py there is a code for creting and running backround task with help of Celery and Redis msg broker
 - Sadly I was not able to implement this part due to connectino issues to database and performance over upading data in database aprox. every min
-- I wanted to display my current idea of implementation how it could be possible to run this feature but it is not good enough solution for requirements
+- I wanted to display my current idea of implementation how it could be possible to run this feature but it is not good enough solution for the requirements
 
 
 
