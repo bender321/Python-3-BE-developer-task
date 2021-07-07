@@ -160,6 +160,11 @@
 - so for testing you have to rewrite those variables and jsons which data you wish to test with
 - or just run command ```python tests.py``` after command ```python db_maker.py``` to work with default values in tests.py (1st record in database)
 
+### Backround task:
+- In taskmaker.py there is a code for creting and running backround task with help of Celery and Redis msg broker
+- Sadly I was not able to implement this part due to connectino issues to database and performance over upading data in database aprox. every min
+- I wanted to display my current idea of implementation how it could be possible to run this feature but it is not good enough solution for requirements
+
 
 
 
